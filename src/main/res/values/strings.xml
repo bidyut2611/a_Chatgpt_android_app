@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bidChatgpt</string>
+
+    <string name="https_api_openai_com_v1_chat_completions">https://api.openai.com/v1/chat/completions</string>
+</resources>
